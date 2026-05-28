@@ -17,7 +17,7 @@ Fault Tolerance: Built-in defensive system to handle corrupted files or invalid 
 🚀 Installation and Use
 Clone/Download: Save the expenses.py file in your project folder.
 
-Execution: Open a terminal in that folder and use the following commands:
+Execution: Abre una terminal en esa carpeta y usa los siguientes comandos:
 
 Available Commands
 1. Add an expense
